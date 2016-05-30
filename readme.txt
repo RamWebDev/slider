@@ -1,4 +1,4 @@
-﻿
+﻿Ram
         Start with any file in folder 'demos', 'examples'
         e.g. you can start with 'examples/simple-slider.source.html'.
         Use 'jssor.js' and 'jssor.slider.js' for development.
@@ -6,9 +6,9 @@
         In addition you can run 'examples/simple-slider.compress.bat' to compress your slider to (minimum 17KB) code snippet, see 'examples/simple-slider.compress.bat'.
         Reference http://www.jssor.com/development/index.html
 
-
+Hello1
         Note that 'jssor.compress.exe' runs on windows system with .NET 2.0 installed.
 
 TEST
-
+Hello2
 TEST2
