@@ -10,5 +10,6 @@ Hello1
         Note that 'jssor.compress.exe' runs on windows system with .NET 2.0 installed.
 
 TEST
+
 Hello2
 TEST2
